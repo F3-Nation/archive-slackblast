@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+PAXminer and Slackblast have been serving F3 Nation for a while now. We are standing up a new database and Slackbot. Check out https://github.com/F3-Nation to see what we're working on and to contribute.
+
 # Slackblast
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
