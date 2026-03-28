@@ -3,6 +3,9 @@
 # DEPRECATED
 PAXminer and Slackblast have been serving F3 Nation for a while now. We are standing up a new database and Slackbot. Check out https://github.com/F3-Nation to see what we're working on and to contribute.
 
+<details>
+    <summary>Original ReadMe</summary>
+
 # Slackblast
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -216,3 +219,4 @@ source ../.env && nodemon --exec "poetry run python app.py" -e py
 > [!NOTE]
 > if you add or change packages via `poetry add ...`, you will need to also add it to `slackblast/requirements.txt`. You can make sure that this file fully reflects the poetry virtual environment via: `poetry export -f requirements.txt -o requirements.txt --without-hashes`
 
+</details>
